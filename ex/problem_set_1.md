@@ -28,7 +28,7 @@
 |T|T|F|
 |T|F|T|
 |F|T|T|
-|F|F|F
+|F|F|F|
 ##Ex 5
 1. T
 2. F
@@ -38,3 +38,15 @@
 6. T
 7. F
 8. F
+
+## Ex 6
+p ⊕ q is true if p is true and q is false (inclusive) or if p is false and q is true
+(¬q ∧ p) ∨ (q ∧ ¬p)
+|p|q|(¬q ∧ p) ∨ (q ∧ ¬p)|
+|-|-|-----|
+|T|T|F|
+|T|F|T|
+|F|T|T|
+|F|F|F|
+This truth table is the same as the one presented in ex 4 thus we can conclude that
+the proposed expression matches xor
