@@ -50,3 +50,13 @@ p ⊕ q is true if p is true and q is false (inclusive) or if p is false and q i
 |F|F|F|
 This truth table is the same as the one presented in ex 4 thus we can conclude that
 the proposed expression matches xor
+
+## Ex 7
+1. T
+2. NDF
+3. T
+4. T
+5. NDF
+6. NDF
+7. T
+8. T
