@@ -26,5 +26,13 @@ The first one is commutative and the second is a group
 |⋆|e|a|b|
 |-|-|-|-|
 |e|e|a|b|
-|a|a|a|a|
-|b|b|b|b|
+|a|a|b|e|
+|b|b|e|a|
+
+## Ex 4
+Assume for the purposes of contradiction, that we have a monoid M with 2 ids *a*
+and *b*\
+If we were to compose *a* and *b*:\
+If *a* ⋆ *b* = *b*, then *b*, by definition is not an id\
+If *a* ⋆ *b* = *a*, then *a*, by definition is not an id\
+If *a* ⋆ *b* = *c*, then by definition nither a nor b are ids an id
