@@ -80,3 +80,8 @@ C = 𝐴 ∩ B
 <=> ∀ a ∈ A. a ∈ b -> a ∈ c
 => ∀ c ∈ C. c ∈ A
 <=> C ⊆ A
+## Ex 12
+This is an example of [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
+A = {x | x ∉ x}
+=> A ∈ A <=> A ∉ A
+which is a contradiction
