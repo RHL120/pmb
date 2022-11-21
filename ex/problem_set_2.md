@@ -47,3 +47,28 @@
 3. No
 4. Yes
 
+## Ex 9
+### Show that ⊆ is reflexive
+For any set A:
+A = A
+<=> ∀ a ∈ A. (a ∈ A <=> a ∈ A) (by definition of set equality)
+<=> ∀ a ∈ A. (a ∈ A)
+<=> A ⊆ A (by definition of ⊆)
+### Show that ∈ is not reflexive
+A simple counter example would be:
+∅ ∉ ∅
+### Is  ⊆ symetric
+Counter example:
+
+A = {a, b, c}
+
+B = {a}
+
+B ⊆ A but A ⊄ B
+### Is ∈ symetric
+Counter example:
+A = ∅
+
+B = {∅}
+
+A ∈ B but B ∉ A
