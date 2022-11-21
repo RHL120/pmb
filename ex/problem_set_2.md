@@ -85,3 +85,7 @@ This is an example of [Russell's paradox](https://en.wikipedia.org/wiki/Russell%
 A = {x | x ∉ x}
 => A ∈ A <=> A ∉ A
 which is a contradiction
+## Ex 13
+𝐵 ⊆ 𝐴
+<=> ∀ b ∈ B. b ∈ A
+<=> 𝐴 ∩ 𝐵 = 𝐵
