@@ -21,3 +21,10 @@ The 2 possible tables are:
 |a|a|a|
 
 The first one is commutative and the second is a group
+
+## Ex 3
+|⋆|e|a|b|
+|-|-|-|-|
+|e|e|a|b|
+|a|a|a|a|
+|b|b|b|b|
