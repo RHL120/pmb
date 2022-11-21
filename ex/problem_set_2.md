@@ -72,3 +72,6 @@ A = ∅
 B = {∅}
 
 A ∈ B but B ∉ A
+
+## Ex 10
+As seen in theorem 2.3 ⊆ is transative so yes
