@@ -1,4 +1,4 @@
-#Problem set 1
+# Problem set 1
 ## Ex 1
 1. Atomic statement
 2. Not a statement
@@ -29,6 +29,7 @@
 |T|F|T|
 |F|T|T|
 |F|F|F|
+
 ##Ex 5
 1. T
 2. F
@@ -48,6 +49,7 @@ p ⊕ q is true if p is true and q is false (inclusive) or if p is false and q i
 |T|F|T|
 |F|T|T|
 |F|F|F|
+
 This truth table is the same as the one presented in ex 4 thus we can conclude that
 the proposed expression matches xor
 
@@ -62,12 +64,14 @@ the proposed expression matches xor
 8. T
 
 ## Ex 8
+
 1. p = T, q = T
 2. p = T, q = F
 3. p = T, q = F
 4. r = F, q = T, p = T
 
 ## Ex 9
+
 |p|q|r|[𝑝 ∧ (𝑞 ∨ 𝑟)]|[(𝑝 ∧ 𝑞) ∨ (𝑝 ∧ 𝑟)]|[𝑝 ∧ (𝑞 ∨ 𝑟)] ↔ [(𝑝 ∧ 𝑞) ∨ (𝑝 ∧ 𝑟)]|
 |-|-|-|-------------|-------------------|-----------------------------------|
 |T|T|T|T|T|T|
