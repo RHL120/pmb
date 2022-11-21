@@ -75,3 +75,8 @@ A ∈ B but B ∉ A
 
 ## Ex 10
 As seen in theorem 2.3 ⊆ is transative so yes
+## Ex 11
+C = 𝐴 ∩ B
+<=> ∀ a ∈ A. a ∈ b -> a ∈ c
+=> ∀ c ∈ C. c ∈ A
+<=> C ⊆ A
