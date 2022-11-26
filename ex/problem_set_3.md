@@ -44,3 +44,11 @@ If *a* ⋆ *b* = *c*, then by definition nither a nor b are ids an id
 |a|a|b|c|e|
 |b|b|c|e|a|
 |c|e|e|e|e|
+
+## Ex 6
+
+Assume the group ({e, a, b, c}, *) where a * b = b * a = a * c = c * a = e
+
+a * b = a * c
+<=> b * a * b = b * a * c
+<=> b = c
