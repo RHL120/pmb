@@ -26,6 +26,7 @@ Thus (s, + , *) is not a ring.
 **Base case**: 2<sup>1</sup> = 2; 2 > 1
 
 **Inductive step** Assume that *k* ∈ ℕ *k* > 1
+
 2<sup>*k* + 1</sup>
 
 = 2(2<sup>*k*</sup>) > *k*
