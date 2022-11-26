@@ -27,6 +27,4 @@ Thus (s, + , *) is not a ring.
 
 **Inductive step** Assume that *k* ∈ ℕ *k* > 1
 
-2<sup>*k* + 1</sup>
-
-= 2(2<sup>*k*</sup>) > *k*
+2<sup>*k* + 1</sup> = 2(2<sup>*k*</sup>) > *k*
